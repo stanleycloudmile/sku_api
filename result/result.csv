@@ -1,0 +1,234 @@
+Region,Product,UnitOfMeasure,UnitPrice,Category,Notes,SKU_ID,Price
+us-central1,VM state: preserved local SSD in Americas,gibibyte month,0.0634,CPU,"No SKUs match the filter，
+參考https://cloud.google.com/compute/disks-image-pricing#localssdpricing，手動換算By月計算",not found,-1
+us-central1,C2D AMD Instance Ram running in Americas,gibibyte hour,0.003959,CPU,,skus/C79B-C925-A9B9,0.003959
+us-central1,C2D AMD Instance Core running in Americas,hour,0.029563,CPU,,skus/5E86-72F2-5688,0.029563
+us-central1,C3D Instance Core running in Americas,hour,0.029563,CPU,,skus/CEE0-1AE0-3422,0.029563
+us-central1,C3D Instance Ram running in Americas,gibibyte hour,0.003959,CPU,,skus/79E9-0431-3CD3,0.003959
+us-central1,Spot Preemptible C2D AMD Instance Ram running in Americas,gibibyte hour,0.000987,CPU,000987 USD per 1 gibibyte hour (2024/09/09),skus/9BFD-9B1F-9AC4,0.000987
+us-central1,Spot Preemptible C2D AMD Instance Core running in Americas,hour,0.00736,CPU,0.00736 USD per 1 hour (2024/09/09),skus/CD98-F792-88FF,0.00736
+us-west4,Spot Preemptible C2D AMD Instance Core running in Las Vegas,hour,0.00846,CPU,0.00846 USD per 1 hour,skus/6937-DCD1-187C,0.00846
+us-west4,Spot Preemptible C2D AMD Instance Ram running in Las Vegas,gibibyte hour,0.001133,CPU,0.001133 USD per 1 gibibyte hour,skus/0339-0445-8F8F,0.001133
+asia-southeast1,Spot Preemptible N2D AMD Instance Ram running in Singapore,gibibyte hour,0.001118,CPU,0.00095 USD per 1 gibibyte hour,skus/47EB-17A0-C7B4,0.000808
+us-west4,Spot Preemptible N2D AMD Instance Core running in Las Vegas,hour,0.00903,CPU,0.00903 USD per 1 hour,skus/0586-DB99-41A8,0.00858
+us-west2,Spot Preemptible N2D AMD Instance Core running in Los Angeles,hour,0.00882,CPU,0.00882 USD per 1 hour,skus/B07E-8B43-5335,0.00926
+us-west3,Spot Preemptible N2D AMD Instance Core running in Salt Lake City,hour,0.00764,CPU,0.00764 USD per 1 hour,skus/93A5-5568-F3ED,0.00764
+asia-southeast1,Spot Preemptible N2D AMD Instance Core running in Singapore,hour,0.00836,CPU,,skus/48EB-F1F3-223B,0.00604
+us-west4,Spot Preemptible N2D AMD Instance Ram running in Las Vegas,gibibyte hour,0.00121,CPU,0.00121 USD per 1 gibibyte hour,skus/4280-873C-E4DA,0.00115
+us-west2,Spot Preemptible N2D AMD Instance Ram running in Los Angeles,gibibyte hour,0.001245,CPU,0.001245 USD per 1 gibibyte hour,skus/624A-0F8D-7034,0.001307
+us-west3,Spot Preemptible N2D AMD Instance Ram running in Salt Lake City,gibibyte hour,0.001028,CPU,0.001028 USD per 1 gibibyte hour,skus/410D-7FE3-C183,0.001028
+us-central1,Spot Preemptible A3 Instance Core running in Americas,hour,0.01402,CPU,0.01402 USD per 1 hour,skus/EEE5-1DA5-D9CF,0.0102
+asia-southeast1,Spot Preemptible A3 Instance Core running in Singapore,hour,0.0173,CPU,0.0173 USD per 1 hour,skus/E359-EB9E-506F,0.01258
+us-central1,Spot Preemptible A3 Instance Ram running in Americas,gibibyte hour,0.001221,CPU,0.001221 USD per 1 gibibyte hour,skus/F619-87C3-D3BA,0.000888
+asia-southeast1,Spot Preemptible A3 Instance Ram running in Singapore,gibibyte hour,0.001507,CPU,0.001507 USD per 1 gibibyte hour,skus/E6C3-FDE5-8E4E,0.001096
+sharedservice,Regional Standard Class B Operations,count,0.0004,Application,"Cloud Storage: 
+0.00 USD (Free) per 1,000 count, for 0 count to 50,000 count, per 1 month per account；
+0.0004 USD per 1,000 count, for 50,000 count and above, per 1 month per account",skus/7870-010B-2763,"[{'startAmount': {'value': '0'}, 'listPrice': {'currencyCode': 'USD'}}, {'startAmount': {'value': '50000'}, 'listPrice': {'currencyCode': 'USD', 'nanos': 400000}}]"
+us-central1,SSD backed Local Storage attached to Spot Preemptible VMs,gibibyte month,0.0634,CPU,,skus/E725-3CC5-D4BE,0.056
+us-west4,SSD backed Local Storage attached to Spot Preemptible VMs in Las Vegas,gibibyte month,0.0524,CPU,0.0524 USD per 1 gibibyte month,skus/9FE8-2651-76C8,0.0445
+us-west2,SSD backed Local Storage attached to Spot Preemptible VMs in Los Angeles,gibibyte month,0.0699,CPU,0.0699 USD per 1 gibibyte month,skus/7A48-277E-AD1A,0.0672
+us-west3,SSD backed Local Storage attached to Spot Preemptible VMs in Salt Lake City,gibibyte month,0.0576,CPU,0.0576 USD per 1 gibibyte month,skus/3233-97D3-222E,0.0662
+us-central1,Spot Preemptible N2D AMD Instance Ram running in Americas,gibibyte hour,0.00074,CPU,0.00095 USD per 1 gibibyte hour(9/12),skus/AFA5-CB36-99F6,0.000766
+us-central1,Spot Preemptible N2D AMD Instance Core running in Americas,hour,0.00553,CPU,,skus/0434-AD25-7163,0.00573
+asia-southeast1,SSD backed Local Storage attached to Spot Preemptible VMs in Singapore,gibibyte month,0.0805,CPU,,skus/9F7C-3C75-F39B,0.0616
+asia-southeast1,Spot Preemptible C2D AMD Instance Ram running in Singapore,gibibyte hour,0.000781,CPU,0.000781 USD per 1 gibibyte hour,skus/A9E0-6165-8802,0.000898
+asia-southeast1,Spot Preemptible C2D AMD Instance Core running in Singapore,hour,0.00683,CPU,,skus/03D1-98E2-08AD,0.00668
+sharedservice,Network Inter Zone Data Transfer Out,gibibyte,0.01,Network,GCP的Cost項目是列在Compute Engine下,skus/DE9E-AFBC-A15A,0.01
+sharedservice,Network Inter Zone Data Transfer In,gibibyte,0.0,Network,GCP的Cost項目是列在Compute Engine下,skus/D0CC-50DF-59D2,0.0
+sharedservice,Usage-based Extreme storage capacity allocated,GiB allocated,0.4,Storage,"NetApp Cloud Volumes Service: 
+No SKUs match the filter，
+參考https://cloud.google.com/architecture/partners/netapp-cloud-volumes/costs，手動指定Region",skus/96D9-6262-BB46,0.3
+sharedservice,Network Intelligence Center Network Analyzer Resource Hours,count,0.0011,Application,GCP的Cost項目是列在Networking下,skus/9BF8-CD36-F9B8,0.0011
+sharedservice,Network Intelligence Center Topology and Google Cloud Performance Resource Hours,count,0.0011,Application,GCP的Cost項目是列在Networking下,skus/D9AD-28F8-05D8,0.0011
+sharedservice,Network Intelligence Center Internet to Google Cloud Performance Resource Hours,count,0.0008,Application,GCP的Cost項目是列在Networking下,skus/BDBA-22FA-3925,0.0008
+us-central1,Analysis (us-central1),tebibyte,6.25,Application,"Big Query:
+0.00 USD (Free) per 1 tebibyte, for 0 to 1 tebibyte, per 1 month per account;
+6.25 USD per 1 tebibyte, for 1 tebibyte and above, per 1 month per account",skus/3362-E469-6BEF,"[{'startAmount': {'value': '0'}, 'listPrice': {'currencyCode': 'USD'}}, {'startAmount': {'value': '1'}, 'listPrice': {'currencyCode': 'USD', 'units': '6', 'nanos': 250000000}}]"
+sharedservice,Log Storage cost,gibibyte,0.5,Application,"Cloud Loggin: 
+0.00 USD (Free) per 1 gibibyte, for 0 to 50 gibibyte, per 1 month per project;0.50 USD per 1 gibibyte, for 50 gibibyte and above, per 1 month per project。
+根據GCP Console，選擇10月帳單/SKU/以單一區域和多區域分組，找出的Region為us* & us-central1。",skus/143F-A1B0-E0BE,"[{'startAmount': {'value': '0'}, 'listPrice': {'currencyCode': 'USD'}}, {'startAmount': {'value': '50'}, 'listPrice': {'currencyCode': 'USD', 'nanos': 500000000}}]"
+us-central1,N2D AMD Instance Ram running in Americas,gibibyte hour,0.003686,CPU,,skus/5535-6D2D-4B50,0.003686
+asia-southeast1,N2D AMD Instance Ram running in Singapore,gibibyte hour,0.004547,CPU,,skus/92EB-71EA-DA74,0.004547
+us-west4,N2D AMD Instance Ram running in Las Vegas,gibibyte hour,0.004151,CPU,,skus/ABD2-309F-B86A,0.004151
+us-west2,N2D AMD Instance Ram running in Los Angeles,gibibyte hour,0.004427,CPU,,skus/1FEE-CE8E-2D35,0.004427
+us-west3,N2D AMD Instance Ram running in Salt Lake City,gibibyte hour,0.004427,CPU,,skus/98E9-BA44-DDD2,0.004427
+asia-southeast1,N2D AMD Instance Core running in Singapore,hour,0.033929,CPU,,skus/8B4E-B458-AD51,0.033929
+us-central1,N2D AMD Instance Core running in Americas,hour,0.027502,CPU,,skus/A03E-E620-7389,0.027502
+us-west4,N2D AMD Instance Core running in Las Vegas,hour,0.030976,CPU,,skus/0E8D-9FEF-852D,0.030976
+us-west2,N2D AMD Instance Core running in Los Angeles,hour,0.033034,CPU,,skus/2540-FD54-92D3,0.033034
+us-west3,N2D AMD Instance Core running in Salt Lake City,hour,0.033034,CPU,,skus/011F-F649-4A0D,0.033034
+asia-southeast1,Filestore Capacity Zonal and High Scale Singapore,gibibyte month,0.28,Storage,,skus/31D6-2C1A-E2F3,0.28
+sharedservice,Metric Volume,mebibyte,0.061,Application,"Cloud Monitoring: 
+0.258 USD per 1 mebibyte, for 150 mebibyte to 100,000 mebibyte, per 1 month per account; 
+0.151 USD per 1 mebibyte, for 100,000 mebibyte to 250,000 mebibyte, per 1 month per account; 
+0.061 USD per 1 mebibyte, for 250,000 mebibyte and above, per 1 month per account
+根據GCP Console，選擇10月帳單/SKU/以單一區域和多區域分組，找出的Region為us-central1 & asia-southeast1 & asia-east1 &  asia-northeast1 & asia-south1。",skus/A924-09D0-8854,"[{'startAmount': {'value': '0'}, 'listPrice': {'currencyCode': 'USD'}}, {'startAmount': {'value': '150'}, 'listPrice': {'currencyCode': 'USD', 'nanos': 258000000}}, {'startAmount': {'value': '100000'}, 'listPrice': {'currencyCode': 'USD', 'nanos': 151000000}}, {'startAmount': {'value': '250000'}, 'listPrice': {'currencyCode': 'USD', 'nanos': 61000000}}]"
+sharedservice,SSD backed Local Storage,gibibyte month,0.08,CPU,GCP的Cost項目是列在Compute Engine下,skus/62AF-A39E-269B,0.08
+asia-southeast1,SSD backed Local Storage in Singapore,gibibyte month,0.088,CPU,GCP的Cost項目是列在Compute Engine下,skus/F8F1-D370-6212,0.088
+us-west4,SSD backed Local Storage in Las Vegas,gibibyte month,0.088,CPU,GCP的Cost項目是列在Compute Engine下,skus/3C20-2B95-CA0D,0.088
+us-west2,SSD backed Local Storage in Los Angeles,gibibyte month,0.088,CPU,GCP的Cost項目是列在Compute Engine下,skus/D77E-1723-8B31,0.096
+us-west3,SSD backed Local Storage in Salt Lake City,gibibyte month,0.096,CPU,GCP的Cost項目是列在Compute Engine下,skus/C6F5-905B-AD47,0.096
+sharedservice,SSD backed PD Capacity,gibibyte month,0.17,CPU,GCP的Cost項目是列在Compute Engine下,skus/B188-61DD-52E4,0.17
+asia-southeast1,SSD backed PD Capacity in Singapore,gibibyte month,0.187,CPU,GCP的Cost項目是列在Compute Engine下,skus/C97A-896E-D6F0,0.187
+us-west4,SSD backed PD Capacity in Las Vegas,gibibyte month,0.187,CPU,GCP的Cost項目是列在Compute Engine下,skus/CF9E-3EFB-D09B,0.187
+us-west2,SSD backed PD Capacity in Los Angeles,gibibyte month,0.204,CPU,GCP的Cost項目是列在Compute Engine下,skus/0589-AA00-68BD,0.204
+us-west3,SSD backed PD Capacity in Salt Lake City,gibibyte month,0.204,CPU,GCP的Cost項目是列在Compute Engine下,skus/6A0C-F783-3754,0.204
+asia-southeast1,Storage Image in Singapore,gibibyte month,0.055,CPU,GCP的Cost項目是列在Compute Engine下,skus/F8E9-1937-EF0F,0.055
+asia-southeast1,N2 Instance Core running in Singapore,hour,0.038999,CPU,GCP的Cost項目是列在Compute Engine下,skus/2514-CA24-299A,0.038999
+sharedservice,Storage Image,gibibyte month,0.05,CPU,GCP的Cost項目是列在Compute Engine下,skus/DAA2-253C-6680,0.05
+us-west4,Storage Image in Las Vegas,gibibyte month,0.055,CPU,GCP的Cost項目是列在Compute Engine下,skus/4AD1-93A0-6A36,0.055
+us-west2,Storage Image in Los Angeles,gibibyte month,0.06,CPU,GCP的Cost項目是列在Compute Engine下,skus/5161-ADEE-B888,0.06
+us-west3,Storage Image in Salt Lake City,gibibyte month,0.06,CPU,GCP的Cost項目是列在Compute Engine下,skus/B29F-DA60-6B84,0.06
+asia-southeast1,N2 Instance Ram running in Singapore,gibibyte hour,0.005226,CPU,,skus/C84B-1AD4-8EAE,0.005226
+us-central1,Network Inter Region Data Transfer Out from Americas to APAC,gibibyte,0.08,Network,"Compute Engine: 
+0.00 USD (Free) per 1 gibibyte, for 0 gibibyte to 1 gibibyte, per 1 month per account; 
+0.08 USD per 1 gibibyte, for 1 gibibyte and above, per 1 month per account，手動指定Region",skus/DBB6-7020-F72D,0.12
+us-west4,Network Inter Region Data Transfer Out from Las Vegas to APAC,gibibyte,0.08,Network,,skus/BEF5-F6B6-042A,0.12
+us-west4,Network Inter Region Data Transfer Out from Las Vegas to Americas,gibibyte,0.02,Network,,skus/6705-7287-58F4,0.02
+us-west2,Network Inter Region Data Transfer Out from Los Angeles to APAC,gibibyte,0.08,Network,,skus/85E5-B53B-3679,0.08
+us-west3,Network Inter Region Data Transfer Out from Salt Lake City to APAC,gibibyte,0.08,Network,,skus/9CD6-38D8-2D19,0.12
+us-west3,Network Inter Region Data Transfer Out from Salt Lake City to Americas,gibibyte,0.02,Network,,skus/DDFC-CDD5-50E7,0.02
+sharedservice,Storage PD Capacity,gibibyte month,0.0,CPU,"0.00 USD (Free) per 1 gibibyte month, for 0 gibibyte month to 30 gibibyte month, per 1 month per account
+0.04 USD per 1 gibibyte month, for 30 gibibyte month and above, per 1 month per account",skus/D973-5D65-BAB2,"[{'startAmount': {'value': '0'}, 'listPrice': {'currencyCode': 'USD'}}, {'startAmount': {'value': '30'}, 'listPrice': {'currencyCode': 'USD', 'nanos': 40000000}}]"
+asia-southeast1,Storage PD Capacity in Singapore,gibibyte month,0.044,CPU,GCP的Cost項目是列在Compute Engine下,skus/0572-568A-4FC4,0.044
+asia-southeast1,Network Inter Region Data Transfer Out from Singapore to APAC,gibibyte,0.08,Network,0.08 USD per 1 gibibyte,skus/AB08-A30B-7DCA,0.08
+sharedservice,Log Retention cost,gibibyte month,0.01,Application,"GCP的Cost項目是列在Cloud Logging下。
+根據GCP Console，選擇10月帳單/SKU/以單一區域和多區域分組，找出的Region為us* & us-central1。",skus/F4AE-5A52-ACE3,0.01
+asia-southeast1,Standard Storage Singapore,gibibyte month,0.02,Storage,GCP的Cost項目是列在Cloud Storage下,skus/76BA-5CAD-4338,0.02
+asia-southeast1,Network Inter Region Data Transfer Out from Singapore to Americas,gibibyte,0.08,Network,"GCP的Cost項目是列在Compute Engine下，手動指定Region
+定義：Egress to a Google Cloud region on another continent for VM to VM, or cross regions for Interconnect v2",skus/72F8-90AD-8752,0.08
+sharedservice,Regional Standard Class A Operations,count,0.005,Application,"Cloud Storage: 
+0.00 USD (Free) per 1,000 count, for 0 count to 5,000 count, per 1 month per account; 
+0.005 USD per 1,000 count, for 5,000 count and above, per 1 month per account",skus/4DBF-185F-A415,"[{'startAmount': {'value': '0'}, 'listPrice': {'currencyCode': 'USD'}}, {'startAmount': {'value': '5000'}, 'listPrice': {'currencyCode': 'USD', 'nanos': 5000000}}]"
+asia-southeast1,Network Inter Region Data Transfer In from Americas to Singapore,gibibyte,0.0,Network,"GCP的Cost項目是列在Compute Engine下
+定義：Ingress to a Google Cloud region on another continent VM to VM, or cross region for Interconnect v2",skus/AF20-05B2-C3BD,0.0
+us-central1,Network Inter Region Data Transfer In from Singapore to Americas,gibibyte,0.0,Network,"GCP的Cost項目是列在Compute Engine下
+定義：Ingress to a Google Cloud region on another continent VM to VM, or cross region for Interconnect v2",skus/F208-E30F-07D3,0.0
+us-central1,Network Inter Region Data Transfer In from APAC to Americas,gibibyte,0.0,Network,,skus/BBF8-C07D-1DF4,0.0
+us-central1,Network Inter Region Data Transfer In from Japan to Americas,gibibyte,0.0,Network,,skus/8497-0F70-3439,0.0
+us-central1,Network Inter Region Data Transfer In from Los Angeles to Americas,gibibyte,0.0,Network,,skus/EB67-3CB7-1BF5,0.0
+us-central1,Network Inter Region Data Transfer In from Netherlands to Americas,gibibyte,0.0,Network,,skus/C1BB-5F08-C60D,0.0
+asia-southeast1,Network Inter Region Data Transfer In from APAC to Singapore,gibibyte,0.0,Network,0.00 USD (Free) per 1 gibibyte,skus/9A66-1F38-AB49,0.0
+asia-southeast1,Network Inter Region Data Transfer In from Las Vegas to Singapore,gibibyte,0.0,Network,,skus/A558-635F-2E00,0.0
+asia-southeast1,Network Inter Region Data Transfer In from Los Angeles to Singapore,gibibyte,0.0,Network,,skus/ED37-13AB-5712,0.0
+asia-southeast1,Network Inter Region Data Transfer In from Salt Lake City to Singapore,gibibyte,0.0,Network,,skus/A9C1-FDEA-5168,0.0
+us-central1,Network Inter Region Data Transfer Out from Americas to Singapore,gibibyte,0.08,Network,"Compute Engine: 
+0.00 USD (Free) per 1 gibibyte, for 0 gibibyte to 1 gibibyte, per 1 month per account; 
+0.08 USD per 1 gibibyte, for 1 gibibyte and above, per 1 month per account，手動指定Region
+定義：Egress to a Google Cloud region on another continent for VM to VM, or cross regions for Interconnect v2",skus/FAD1-829C-5E63,"[{'startAmount': {'value': '0'}, 'listPrice': {'currencyCode': 'USD'}}, {'startAmount': {'value': '1'}, 'listPrice': {'currencyCode': 'USD', 'nanos': 80000000}}]"
+us-central1,Standard Storage US Regional,gibibyte month,0.02,Storage,"Cloud Storage: 
+0.00 USD (Free) per 1 gibibyte month, for 0 gibibyte month to 5 gibibyte month, per 1 month per account; 
+0.02 USD per 1 gibibyte month, for 5 gibibyte month and above, per 1 month per account",skus/E5F0-6A5D-7BAD,"[{'startAmount': {'value': '0'}, 'listPrice': {'currencyCode': 'USD'}}, {'startAmount': {'value': '5'}, 'listPrice': {'currencyCode': 'USD', 'nanos': 20000000}}]"
+us-central1,Network Data Transfer In from Google Services from Americas to Americas,gibibyte,0.0,Network,"GCP的Cost項目是列在Compute Engine下，手動指定Region
+定義：Ingress to a different Google Cloud service within the same region for VM to Google service",skus/123C-0EFC-B7C8,0.0
+sharedservice,Network Intra Zone Data Transfer Out,gibibyte,0.0,Network,GCP的Cost項目是列在Compute Engine下,skus/14F9-7705-2FD4,0.0
+us-central1,Network Data Transfer to Google Services from Americas to Americas,gibibyte,0.0,Network,"GCP的Cost項目是列在Compute Engine下，手動指定Region
+定義：Egress to a different Google Cloud service within the same region for VM to Google service",skus/92CB-C25F-B1D1,0.0
+sharedservice,Network Intra Zone Data Transfer In,gibibyte,0.0,Network,GCP的Cost項目是列在Compute Engine下,skus/9C76-A3FB-C60A,0.0
+sharedservice,Network Data Transfer GCP Inter Region within Asia,gibibyte,0.0,Network,,skus/F417-43BC-EF06,0.08
+asia-southeast1,Network Data Transfer In from Google Services from Singapore to Singapore,gibibyte,0.0,Network,"GCP的Cost項目是列在Compute Engine下
+定義：Ingress to a different Google Cloud service within the same region for VM to Google service",skus/C60B-9B3C-B624,0.0
+us-west4,Network Data Transfer In from Google Services from Las Vegas to Las Vegas,gibibyte,0.0,Network,,skus/64EC-10AC-F8C8,0.0
+us-west2,Network Data Transfer In from Google Services from Los Angeles to Los Angeles,gibibyte,0.0,Network,,skus/7CA4-6CDF-06FF,0.0
+us-west3,Network Data Transfer In from Google Services from Salt Lake City to Salt Lake City,gibibyte,0.0,Network,,skus/DF6E-B726-097B,0.0
+sharedservice,Network Data Transfer to Google Services from APAC to APAC,gibibyte,0.0,Network,,skus/DD24-5ECD-6E15,0.0
+asia-southeast1,Network Data Transfer to Google Services from Singapore to Singapore,gibibyte,0.0,Network,"GCP的Cost項目是列在Compute Engine下
+定義：Egress to a different Google Cloud service within the same region for VM to Google service",skus/EA96-9836-7E58,0.0
+us-west4,Network Data Transfer to Google Services from Las Vegas to Las Vegas,gibibyte,0.0,Network,,skus/B356-41DE-4B66,0.0
+us-west2,Network Data Transfer to Google Services from Los Angeles to Los Angeles,gibibyte,0.0,Network,,skus/4BA8-8D0A-F38D,0.0
+us-west3,Network Data Transfer to Google Services from Salt Lake City to Salt Lake City,gibibyte,0.0,Network,,skus/7BCE-8CF5-0CC3,0.0
+us-central1,Spot Preemptible N2 Instance Ram running in Americas,gibibyte hour,0.001136,CPU,0.001136 USD per 1 gibibyte hour,skus/6276-ABCE-E764,0.001136
+us-central1,Spot Preemptible N2 Instance Core running in Americas,hour,0.00849,CPU,0.00849 USD per 1 hour,skus/2856-91B1-406A,0.00849
+us-central1,N1 Predefined Instance Core running in Americas,hour,0.031611,CPU,GCP的Cost項目是列在Compute Engine下,skus/2E27-4F75-95CD,0.031611
+us-central1,N1 Predefined Instance Ram running in Americas,gibibyte hour,0.004237,CPU,GCP的Cost項目是列在Compute Engine下,skus/6C71-E844-38BC,0.004237
+sharedservice,Download APAC,gibibyte,0.08,Network,"GCP的Cost項目是列在Cloud Storage下: 
+0.00 USD (Free) per 1 gibibyte, for 0 byte to 100 gibibyte, per 1 month per account; 
+0.12 USD per 1 gibibyte, for 100 gibibyte to 1 tebibyte, per 1 month per account; 
+0.11 USD per 1 gibibyte, for 1 tebibyte to 10 tebibyte, per 1 month per account; 
+0.08 USD per 1 gibibyte, for 10 tebibyte and above, per 1 month per account",skus/1F8B-71B0-3D1B,"[{'startAmount': {'value': '0'}, 'listPrice': {'currencyCode': 'USD'}}, {'startAmount': {'value': '100'}, 'listPrice': {'currencyCode': 'USD', 'nanos': 120000000}}, {'startAmount': {'value': '1024'}, 'listPrice': {'currencyCode': 'USD', 'nanos': 110000000}}, {'startAmount': {'value': '10240'}, 'listPrice': {'currencyCode': 'USD', 'nanos': 80000000}}]"
+sharedservice,GCP Storage Data Transfer between Northern America and Asia,gibibyte,0.08,Network,"GCP的Cost項目是列在Cloud Storage下: 
+0.00 USD (Free) per 1 gibibyte, for 0 byte to 100 gibibyte, per 1 month per account; 
+0.08 USD per 1 gibibyte, for 10 gibibyte and above, per 1 month per account",skus/6B37-399C-BF69,"[{'startAmount': {'value': '0'}, 'listPrice': {'currencyCode': 'USD'}}, {'startAmount': {'value': '100'}, 'listPrice': {'currencyCode': 'USD', 'nanos': 80000000}}]"
+us-central1,NetApp Volumes Capacity Extreme Iowa,gibibyte month,0.3927,Storage,,skus/B645-B247-3F7B,0.3927
+asia-southeast1,NetApp Volumes Capacity Extreme Singapore,gibibyte month,0.3927,Storage,,skus/EAFC-1E79-89AD,0.3927
+us-central1,NetApp Volumes Capacity Premium Iowa,gibibyte month,0.2942,Storage,,skus/5BCD-5BCB-41A3,0.2942
+us-central1,NetApp Volumes Capacity Standard Iowa,gibibyte month,0.2,Storage,,skus/C2DF-4710-FFE1,0.2
+us-west4,NetApp Volumes Capacity Extreme Las Vegas,gibibyte month,0.4516,Storage,,skus/B45A-6838-D15F,0.4516
+us-west2,NetApp Volumes Capacity Standard Los Angeles,gibibyte month,0.23,Storage,,skus/D169-96BC-C3BA,0.23
+us-west2,NetApp Volumes Capacity Extreme Los Angeles,gibibyte month,0.4516,Storage,,skus/0D0F-AD87-36CF,0.4516
+us-west3,NetApp Volumes Capacity Extreme Salt Lake City,gibibyte month,0.4516,Storage,,skus/A896-A2C2-84BA,0.4516
+us-central1,A2 Instance Core running in Americas,hour,0.031611,CPU,,skus/2922-40C5-B19F,0.031611
+us-central1,A2 Instance Ram running in Americas,gibibyte hour,0.004237,CPU,,skus/2390-DCAF-DA38,0.004237
+asia-southeast1,A2 Instance Core running in Singapore,hour,0.038999,CPU,,skus/10F0-EE60-26C7,0.038999
+asia-southeast1,A2 Instance Ram running in Singapore,gibibyte hour,0.005226,CPU,,skus/03D0-B47F-1938,0.005226
+asia-southeast1,A3 Instance Core running in Singapore,hour,0.031457,CPU,0.03145689 USD per 1 hour,skus/900F-F14A-DEF3,0.03145689
+asia-southeast1,A3 Instance Ram running in Singapore,gibibyte hour,0.002739,CPU,0.002739233 USD per 1 gibibyte hour,skus/0B1B-A00D-9C69,0.002739233
+us-central1,Spot Preemptible A2 Instance Core running in Americas,hour,0.01264,CPU,,skus/3178-715E-CFB6,0.01264
+us-central1,Spot Preemptible A2 Instance Ram running in Americas,gibibyte hour,0.001695,CPU,,skus/65A3-16DB-D57A,0.001695
+asia-southeast1,Spot Preemptible A2 Instance Core running in Singapore,hour,0.01525,CPU,,skus/960A-A3F4-7AD1,0.01372
+asia-southeast1,Spot Preemptible A2 Instance Ram running in Singapore,gibibyte hour,0.002044,CPU,0.002044 USD per 1 gibibyte hour,skus/7AF9-D5F3-1235,0.00184
+sharedservice,Balanced PD Capacity,gibibyte month,0.1,CPU,,skus/6AE1-525F-8B80,0.1
+asia-southeast1,Balanced PD Capacity in Singapore,gibibyte month,0.11,CPU,,skus/16D2-FC49-A127,0.11
+asia-southeast1,C2D AMD Instance Core running in Singapore,hour,0.036471,CPU,,skus/A8BB-FA67-F9D8,0.036471
+asia-southeast1,C2D AMD Instance Ram running in Singapore,gibibyte hour,0.004884,CPU,,skus/6E53-DF71-F575,0.004884
+sharedservice,Licensing Fee for Ubuntu 22.04 LTS (Jammy Jellyfish),hour,0.0,Application,,not found,-1
+asia-east1,N2 Instance Core running in APAC,hour,0.036602,CPU,,skus/1B8C-264F-447E,0.036602
+asia-east1,N2 Instance Ram running in APAC,gibibyte hour,0.004906,CPU,,skus/2297-D3C7-1085,0.004906
+sharedservice,Network VPN Intra Region Data Transfer,gibibyte,0.0,Network,,not found,-1
+sharedservice,Network VPN Intra Region Data Transfer In,gibibyte,0.0,Network,,not found,-1
+us-central1,Nvidia Tesla A100 80GB GPU attached to Spot Preemptible VMs running in Americas,hour,1.5712,CPU,,skus/DD90-547C-2AAA,0.5712
+asia-southeast1,Nvidia Tesla A100 80GB GPU attached to Spot Preemptible VMs running in Singapore,hour,1.9384,CPU,,skus/36BB-6DC9-2245,0.9384
+us-central1,Nvidia H100 80GB GPU attached to Spot Preemptible VMs running in Americas,hour,5.3881,CPU,5.3881 USD per 1 hour,skus/7A6D-F74C-B0A3,0.9186
+asia-southeast1,Nvidia H100 80GB GPU attached to Spot Preemptible VMs running in Singapore,hour,7.0045,CPU,7.0045 USD per 1 hour,skus/6012-C7D6-4721,0.0942
+us-central1,Nvidia Tesla A100 80GB GPU running in Americas,hour,3.92808,CPU,,skus/EDA0-3A70-3138,0.92808
+asia-southeast1,Nvidia Tesla A100 80GB GPU running in Singapore,hour,4.846072,CPU,,skus/1C49-8ADA-54A8,0.846072
+asia-southeast1,Nvidia H100 80GB GPU running in Singapore,hour,12.735516,CPU,12.735516 USD per 1 hour,skus/A26F-44D0-9A76,0.735516
+asia-east1,Active Logical Storage (asia-east1),gibibyte month,0.0,Application,"0.00 USD (Free) per 1 gibibyte month, for 0 to 10 gibibyte month, per 1 month per account
+0.02 USD per 1 gibibyte month, for 10 gibibyte month and above, per 1 month per account",skus/C493-D992-4C50,"[{'startAmount': {'value': '0'}, 'listPrice': {'currencyCode': 'USD'}}, {'startAmount': {'value': '10'}, 'listPrice': {'currencyCode': 'USD', 'nanos': 20000000}}]"
+asia-east1,Long Term Logical Storage (asia-east1),gibibyte month,0.0,Application,"0.00 USD (Free) per 1 gibibyte month, for 0 to 10 gibibyte month, per 1 month per account
+0.01 USD per 1 gibibyte month, for 10 gibibyte month and above, per 1 month per account",skus/F66C-C62E-214A,"[{'startAmount': {'value': '0'}, 'listPrice': {'currencyCode': 'USD'}}, {'startAmount': {'value': '10'}, 'listPrice': {'currencyCode': 'USD', 'nanos': 10000000}}]"
+asia-east1,Artifact Registry Storage,gibibyte month,0.0,Application,"0.00 USD (Free) per 1 gibibyte month, for 0 gibibyte month to 0.5 gibibyte month, per 1 month per account
+0.10 USD per 1 gibibyte month, for 0.5 gibibyte month and above, per 1 month per account",skus/8502-299A-ABAF,"[{'startAmount': {'value': '0'}, 'listPrice': {'currencyCode': 'USD'}}, {'startAmount': {'value': '0.5'}, 'listPrice': {'currencyCode': 'USD', 'nanos': 100000000}}]"
+asia-east1,CPU Allocation Time,vCPU-second,2.4e-05,Application,Cloud Run 0.0864 USD per 1 hour,skus/4856-B847-F1EB,2.4e-05
+asia-east1,CPU Allocation Time (Always-on CPU) in asia-east1,vCPU-second,1.8e-05,Application,Cloud Run 0.0648 USD per 1 hour,skus/57B1-D3F9-2D68,1.8e-05
+asia-east1,Cloud Load Balancer Forwarding Rule Minimum for Taiwan (asia-east1),hour,0.025,Application,,skus/FA8C-51C0-A961,0.025
+asia-east1,Cloud Run GOOGLE-API Data Transfer Out,gibibyte,0.0,Network,Cloud Run,skus/0CCB-7057-48DE,0.0
+asia-east1,Cloud SQL for MySQL: Regional - RAM in APAC,gibibyte hour,0.014,Application,Cloud SQL,skus/3658-3590-0FE5,0.014
+asia-east1,Cloud SQL for MySQL: Regional - Standard storage in APAC,gibibyte month,0.34,Application,Cloud SQL,skus/7EAC-0EC7-8136,0.34
+asia-east1,Cloud SQL for MySQL: Regional - vCPU in APAC,hour,0.0826,Application,Cloud SQL,skus/F3D9-7F4B-CDDD,0.0826
+asia-east1,E2 Instance Core running in APAC,hour,0.025255,CPU,,skus/92C8-7C92-6AEF,0.02525538
+asia-east1,E2 Instance Ram running in APAC,gibibyte hour,0.003385,CPU,,skus/FD4D-A383-8DAB,0.00338514
+asia-east1,Filestore Capacity Zonal and High Scale Taiwan,gibibyte month,0.28,Storage,,skus/39C4-08CC-B85D,0.28
+asia-east1,Idle Min-Instance CPU Allocation Time,vCPU-second,3e-06,Application,Cloud Run 0.009 USD per 1 hour,skus/7EBB-8579-2C98,2.5e-06
+asia-east1,Idle Min-Instance Memory Allocation Time,GiB-second,3e-06,Application,Cloud Run 0.009 USD per 1 gibibyte hour,skus/740D-08F2-7A11,2.5e-06
+asia-east1,Intra-region data delivery,gibibyte,0.0,Application,Cloud Pub/Sub,skus/460A-7826-0471,0.0
+asia-east1,Licensing Fee for Container-Optimized OS - PCID Whitelisted on f1-micro,hour,0.0,Application,,skus/7744-6E7B-EFEC,0.0
+asia-east1,Licensing Fee for Container-Optimized OS from Google on f1-micro,hour,0.0,Application,,not found,-1
+asia-east1,Licensing Fee for Shielded COS on f1-micro,hour,0.0,Application,,not found,-1
+asia-east1,Memory Allocation Time,GiB-second,3e-06,Application,Cloud Run 0.009 USD per 1 gibibyte hour,skus/02A2-9231-36A6,2.5e-06
+asia-east1,Memory Allocation Time (Always-on CPU) in asia-east1,GiB-second,2e-06,Application,Cloud Run 0.0072 USD per 1 gibibyte hour,skus/772F-131D-E8F9,2e-06
+asia-east1,Message Delivery Basic,tebibyte,0.0,Application,"Cloud Pub/Sub
+0.00 USD (Free) per 1 tebibyte, for 0 gibibyte to 10 gibibyte, per 1 month per account
+40.00 USD per 1 tebibyte, for 10 gibibyte and above, per 1 month per account",skus/027D-B6C7-CCA2,"[{'startAmount': {'value': '0'}, 'listPrice': {'currencyCode': 'USD'}}, {'startAmount': {'value': '0.009765625'}, 'listPrice': {'currencyCode': 'USD', 'units': '40'}}]"
+asia-east1,Micro Instance with burstable CPU running in APAC,hour,0.009,CPU,,skus/E3EE-02EB-33B4,0.009
+asia-east1,N2D AMD Instance Core running in APAC,hour,0.031844,CPU,,skus/EF6C-66BA-C9C6,0.031844
+asia-east1,N2D AMD Instance Ram running in APAC,gibibyte hour,0.004268,CPU,,skus/FFF7-7A42-F2E8,0.004268
+asia-east1,Network Data Transfer In from Google Services from APAC to APAC,gibibyte,0.0,Network,,skus/212E-B31F-3BF6,0.0
+asia-east1,Network HTTP Load Balancing Data Transfer In from Load Balancer,gibibyte,0.0,Network,,not found,-1
+asia-east1,Network HTTP Load Balancing Data Transfer Out to Load Balancer,gibibyte,0.0,Network,,not found,-1
+asia-east1,Network Inter Zone Data Transfer Out in APAC,gibibyte,0.0,Network,,skus/55F2-D22D-0EDD,0.0
+asia-east1,On-demand fee for total VM network bandwidth up to 50 Gbps in Taiwan,hour,0.519839,Application,,skus/3774-2460-5BF3,0.519839
+asia-east1,Regional Internal Passthrough Network Load Balancer Inbound Data Processing for Taiwan (asia-east1),gibibyte,0.008,Application,,skus/5707-7CAE-35F4,0.008
+asia-east1,Regional Internal Passthrough Network Load Balancer Outbound Data Processing for Taiwan (asia-east1),gibibyte,0.008,Application,,skus/BFA8-3ACD-BBEC,0.008
+asia-east1,Requests,Requests,0.0,Application,"0.00 USD (Free) per 1,000,000 count, for 0 count to 2,000,000 count, per 1 month per account
+0.40 USD per 1,000,000 count, for 2,000,000 count and above, per 1 month per account",skus/C1D7-0735-5EC4,0.0
+asia-east1,Secret access operations,count,0.0,Application,"Security Manager
+0.00 USD (Free) per 10,000 count, for 0 count to 10,000 count, per 1 month per account
+0.03 USD per 10,000 count, for 10,000 count and above, per 1 month per account",skus/EBA7-264F-2D2C,"[{'startAmount': {'value': '0'}, 'listPrice': {'currencyCode': 'USD'}}, {'startAmount': {'value': '10000'}, 'listPrice': {'currencyCode': 'USD', 'nanos': 30000000}}]"
+us-central1,Secret version replica storage,month,0.0,Application,"Security Manager
+0.00 USD (Free) per 1 month, for 0 month to 6 month, per 1 month per account
+0.06 USD per 1 month, for 6 month and above, per 1 month per account",skus/7756-ADEF-84F4,"[{'startAmount': {'value': '0'}, 'listPrice': {'currencyCode': 'USD'}}, {'startAmount': {'value': '6'}, 'listPrice': {'currencyCode': 'USD', 'nanos': 60000000}}]"
+asia-east1,Dataplex Metadata Storage Taiwan,gibibyte month,2.0,Application,2.00 USD per 1 gibibyte month,skus/B97D-CFAC-C7EA,0.0
+asia-east1,Standard Storage Asia Regional,gibibyte month,0.02,Storage,,skus/BAE2-255B-64A7,0.02
+asia-east1,Storage PD Snapshot,gibibyte month,0.05,Application,,skus/817F-F5A3-514E,0.05
+asia-east1,Topics message backlog,gibibyte month,0.27,Application,Cloud Pub/Sub,skus/F9EB-D3E1-ABDF,0.27

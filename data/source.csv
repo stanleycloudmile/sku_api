@@ -1,0 +1,234 @@
+Region,Product,UnitOfMeasure,UnitPrice,Category,Notes
+us-central1,VM state: preserved local SSD in Americas,gibibyte month,0.063400,CPU,"No SKUs match the filter，
+參考https://cloud.google.com/compute/disks-image-pricing#localssdpricing，手動換算By月計算"
+us-central1,C2D AMD Instance Ram running in Americas,gibibyte hour,0.003959,CPU,
+us-central1,C2D AMD Instance Core running in Americas,hour,0.029563,CPU,
+us-central1,C3D Instance Core running in Americas,hour,0.029563,CPU,
+us-central1,C3D Instance Ram running in Americas,gibibyte hour,0.003959,CPU,
+us-central1,Spot Preemptible C2D AMD Instance Ram running in Americas,gibibyte hour,0.000987,CPU,000987 USD per 1 gibibyte hour (2024/09/09)
+us-central1,Spot Preemptible C2D AMD Instance Core running in Americas,hour,0.007360,CPU,0.00736 USD per 1 hour (2024/09/09)
+us-west4,Spot Preemptible C2D AMD Instance Core running in Las Vegas,hour,0.008460,CPU,0.00846 USD per 1 hour
+us-west4,Spot Preemptible C2D AMD Instance Ram running in Las Vegas,gibibyte hour,0.001133,CPU,0.001133 USD per 1 gibibyte hour
+asia-southeast1,Spot Preemptible N2D AMD Instance Ram running in Singapore,gibibyte hour,0.001118,CPU,0.00095 USD per 1 gibibyte hour
+us-west4,Spot Preemptible N2D AMD Instance Core running in Las Vegas,hour,0.009030,CPU,0.00903 USD per 1 hour
+us-west2,Spot Preemptible N2D AMD Instance Core running in Los Angeles,hour,0.008820,CPU,0.00882 USD per 1 hour
+us-west3,Spot Preemptible N2D AMD Instance Core running in Salt Lake City,hour,0.007640,CPU,0.00764 USD per 1 hour
+asia-southeast1,Spot Preemptible N2D AMD Instance Core running in Singapore,hour,0.008360,CPU,
+us-west4,Spot Preemptible N2D AMD Instance Ram running in Las Vegas,gibibyte hour,0.001210,CPU,0.00121 USD per 1 gibibyte hour
+us-west2,Spot Preemptible N2D AMD Instance Ram running in Los Angeles,gibibyte hour,0.001245,CPU,0.001245 USD per 1 gibibyte hour
+us-west3,Spot Preemptible N2D AMD Instance Ram running in Salt Lake City,gibibyte hour,0.001028,CPU,0.001028 USD per 1 gibibyte hour
+us-central1,Spot Preemptible A3 Instance Core running in Americas,hour,0.014020,CPU,0.01402 USD per 1 hour
+asia-southeast1,Spot Preemptible A3 Instance Core running in Singapore,hour,0.017300,CPU,0.0173 USD per 1 hour
+us-central1,Spot Preemptible A3 Instance Ram running in Americas,gibibyte hour,0.001221,CPU,0.001221 USD per 1 gibibyte hour
+asia-southeast1,Spot Preemptible A3 Instance Ram running in Singapore,gibibyte hour,0.001507,CPU,0.001507 USD per 1 gibibyte hour
+sharedservice,Regional Standard Class B Operations,count,0.000400,Application,"Cloud Storage: 
+0.00 USD (Free) per 1,000 count, for 0 count to 50,000 count, per 1 month per account；
+0.0004 USD per 1,000 count, for 50,000 count and above, per 1 month per account"
+us-central1,SSD backed Local Storage attached to Spot Preemptible VMs,gibibyte month,0.063400,CPU,
+us-west4,SSD backed Local Storage attached to Spot Preemptible VMs in Las Vegas,gibibyte month,0.052400,CPU,0.0524 USD per 1 gibibyte month
+us-west2,SSD backed Local Storage attached to Spot Preemptible VMs in Los Angeles,gibibyte month,0.069900,CPU,0.0699 USD per 1 gibibyte month
+us-west3,SSD backed Local Storage attached to Spot Preemptible VMs in Salt Lake City,gibibyte month,0.057600,CPU,0.0576 USD per 1 gibibyte month
+us-central1,Spot Preemptible N2D AMD Instance Ram running in Americas,gibibyte hour,0.000740,CPU,0.00095 USD per 1 gibibyte hour(9/12)
+us-central1,Spot Preemptible N2D AMD Instance Core running in Americas,hour,0.005530,CPU,
+asia-southeast1,SSD backed Local Storage attached to Spot Preemptible VMs in Singapore,gibibyte month,0.080500,CPU,
+asia-southeast1,Spot Preemptible C2D AMD Instance Ram running in Singapore,gibibyte hour,0.000781,CPU,0.000781 USD per 1 gibibyte hour
+asia-southeast1,Spot Preemptible C2D AMD Instance Core running in Singapore,hour,0.006830,CPU,
+sharedservice,Network Inter Zone Data Transfer Out,gibibyte,0.010000,Network,GCP的Cost項目是列在Compute Engine下
+sharedservice,Network Inter Zone Data Transfer In,gibibyte,0.000000,Network,GCP的Cost項目是列在Compute Engine下
+sharedservice,Usage-based Extreme storage capacity allocated,GiB allocated,0.400000,Storage,"NetApp Cloud Volumes Service: 
+No SKUs match the filter，
+參考https://cloud.google.com/architecture/partners/netapp-cloud-volumes/costs，手動指定Region"
+sharedservice,Network Intelligence Center Network Analyzer Resource Hours,count,0.001100,Application,GCP的Cost項目是列在Networking下
+sharedservice,Network Intelligence Center Topology and Google Cloud Performance Resource Hours,count,0.001100,Application,GCP的Cost項目是列在Networking下
+sharedservice,Network Intelligence Center Internet to Google Cloud Performance Resource Hours,count,0.000800,Application,GCP的Cost項目是列在Networking下
+us-central1,Analysis (us-central1),tebibyte,6.250000,Application,"Big Query:
+0.00 USD (Free) per 1 tebibyte, for 0 to 1 tebibyte, per 1 month per account;
+6.25 USD per 1 tebibyte, for 1 tebibyte and above, per 1 month per account"
+sharedservice,Log Storage cost,gibibyte,0.500000,Application,"Cloud Loggin: 
+0.00 USD (Free) per 1 gibibyte, for 0 to 50 gibibyte, per 1 month per project;0.50 USD per 1 gibibyte, for 50 gibibyte and above, per 1 month per project。
+根據GCP Console，選擇10月帳單/SKU/以單一區域和多區域分組，找出的Region為us* & us-central1。"
+us-central1,N2D AMD Instance Ram running in Americas,gibibyte hour,0.003686,CPU,
+asia-southeast1,N2D AMD Instance Ram running in Singapore,gibibyte hour,0.004547,CPU,
+us-west4,N2D AMD Instance Ram running in Las Vegas,gibibyte hour,0.004151,CPU,
+us-west2,N2D AMD Instance Ram running in Los Angeles,gibibyte hour,0.004427,CPU,
+us-west3,N2D AMD Instance Ram running in Salt Lake City,gibibyte hour,0.004427,CPU,
+asia-southeast1,N2D AMD Instance Core running in Singapore,hour,0.033929,CPU,
+us-central1,N2D AMD Instance Core running in Americas,hour,0.027502,CPU,
+us-west4,N2D AMD Instance Core running in Las Vegas,hour,0.030976,CPU,
+us-west2,N2D AMD Instance Core running in Los Angeles,hour,0.033034,CPU,
+us-west3,N2D AMD Instance Core running in Salt Lake City,hour,0.033034,CPU,
+asia-southeast1,Filestore Capacity Zonal and High Scale Singapore,gibibyte month,0.280000,Storage,
+sharedservice,Metric Volume,mebibyte,0.061000,Application,"Cloud Monitoring: 
+0.258 USD per 1 mebibyte, for 150 mebibyte to 100,000 mebibyte, per 1 month per account; 
+0.151 USD per 1 mebibyte, for 100,000 mebibyte to 250,000 mebibyte, per 1 month per account; 
+0.061 USD per 1 mebibyte, for 250,000 mebibyte and above, per 1 month per account
+根據GCP Console，選擇10月帳單/SKU/以單一區域和多區域分組，找出的Region為us-central1 & asia-southeast1 & asia-east1 &  asia-northeast1 & asia-south1。"
+sharedservice,SSD backed Local Storage,gibibyte month,0.080000,CPU,GCP的Cost項目是列在Compute Engine下
+asia-southeast1,SSD backed Local Storage in Singapore,gibibyte month,0.088000,CPU,GCP的Cost項目是列在Compute Engine下
+us-west4,SSD backed Local Storage in Las Vegas,gibibyte month,0.088000,CPU,GCP的Cost項目是列在Compute Engine下
+us-west2,SSD backed Local Storage in Los Angeles,gibibyte month,0.088000,CPU,GCP的Cost項目是列在Compute Engine下
+us-west3,SSD backed Local Storage in Salt Lake City,gibibyte month,0.096000,CPU,GCP的Cost項目是列在Compute Engine下
+sharedservice,SSD backed PD Capacity,gibibyte month,0.170000,CPU,GCP的Cost項目是列在Compute Engine下
+asia-southeast1,SSD backed PD Capacity in Singapore,gibibyte month,0.187000,CPU,GCP的Cost項目是列在Compute Engine下
+us-west4,SSD backed PD Capacity in Las Vegas,gibibyte month,0.187000,CPU,GCP的Cost項目是列在Compute Engine下
+us-west2,SSD backed PD Capacity in Los Angeles,gibibyte month,0.204000,CPU,GCP的Cost項目是列在Compute Engine下
+us-west3,SSD backed PD Capacity in Salt Lake City,gibibyte month,0.204000,CPU,GCP的Cost項目是列在Compute Engine下
+asia-southeast1,Storage Image in Singapore,gibibyte month,0.055000,CPU,GCP的Cost項目是列在Compute Engine下
+asia-southeast1,N2 Instance Core running in Singapore,hour,0.038999,CPU,GCP的Cost項目是列在Compute Engine下
+sharedservice,Storage Image,gibibyte month,0.050000,CPU,GCP的Cost項目是列在Compute Engine下
+us-west4,Storage Image in Las Vegas,gibibyte month,0.055000,CPU,GCP的Cost項目是列在Compute Engine下
+us-west2,Storage Image in Los Angeles,gibibyte month,0.060000,CPU,GCP的Cost項目是列在Compute Engine下
+us-west3,Storage Image in Salt Lake City,gibibyte month,0.060000,CPU,GCP的Cost項目是列在Compute Engine下
+asia-southeast1,N2 Instance Ram running in Singapore,gibibyte hour,0.005226,CPU,
+us-central1,Network Inter Region Data Transfer Out from Americas to APAC,gibibyte,0.080000,Network,"Compute Engine: 
+0.00 USD (Free) per 1 gibibyte, for 0 gibibyte to 1 gibibyte, per 1 month per account; 
+0.08 USD per 1 gibibyte, for 1 gibibyte and above, per 1 month per account，手動指定Region"
+us-west4,Network Inter Region Data Transfer Out from Las Vegas to APAC,gibibyte,0.080000,Network,
+us-west4,Network Inter Region Data Transfer Out from Las Vegas to Americas,gibibyte,0.020000,Network,
+us-west2,Network Inter Region Data Transfer Out from Los Angeles to APAC,gibibyte,0.080000,Network,
+us-west3,Network Inter Region Data Transfer Out from Salt Lake City to APAC,gibibyte,0.080000,Network,
+us-west3,Network Inter Region Data Transfer Out from Salt Lake City to Americas,gibibyte,0.020000,Network,
+sharedservice,Storage PD Capacity,gibibyte month,0.000000,CPU,"0.00 USD (Free) per 1 gibibyte month, for 0 gibibyte month to 30 gibibyte month, per 1 month per account
+0.04 USD per 1 gibibyte month, for 30 gibibyte month and above, per 1 month per account"
+asia-southeast1,Storage PD Capacity in Singapore,gibibyte month,0.044000,CPU,GCP的Cost項目是列在Compute Engine下
+asia-southeast1,Network Inter Region Data Transfer Out from Singapore to APAC,gibibyte,0.080000,Network,0.08 USD per 1 gibibyte
+sharedservice,Log Retention cost,gibibyte month,0.010000,Application,"GCP的Cost項目是列在Cloud Logging下。
+根據GCP Console，選擇10月帳單/SKU/以單一區域和多區域分組，找出的Region為us* & us-central1。"
+asia-southeast1,Standard Storage Singapore,gibibyte month,0.020000,Storage,GCP的Cost項目是列在Cloud Storage下
+asia-southeast1,Network Inter Region Data Transfer Out from Singapore to Americas,gibibyte,0.080000,Network,"GCP的Cost項目是列在Compute Engine下，手動指定Region
+定義：Egress to a Google Cloud region on another continent for VM to VM, or cross regions for Interconnect v2"
+sharedservice,Regional Standard Class A Operations,count,0.005000,Application,"Cloud Storage: 
+0.00 USD (Free) per 1,000 count, for 0 count to 5,000 count, per 1 month per account; 
+0.005 USD per 1,000 count, for 5,000 count and above, per 1 month per account"
+asia-southeast1,Network Inter Region Data Transfer In from Americas to Singapore,gibibyte,0.000000,Network,"GCP的Cost項目是列在Compute Engine下
+定義：Ingress to a Google Cloud region on another continent VM to VM, or cross region for Interconnect v2"
+us-central1,Network Inter Region Data Transfer In from Singapore to Americas,gibibyte,0.000000,Network,"GCP的Cost項目是列在Compute Engine下
+定義：Ingress to a Google Cloud region on another continent VM to VM, or cross region for Interconnect v2"
+us-central1,Network Inter Region Data Transfer In from APAC to Americas,gibibyte,0.000000,Network,
+us-central1,Network Inter Region Data Transfer In from Japan to Americas,gibibyte,0.000000,Network,
+us-central1,Network Inter Region Data Transfer In from Los Angeles to Americas,gibibyte,0.000000,Network,
+us-central1,Network Inter Region Data Transfer In from Netherlands to Americas,gibibyte,0.000000,Network,
+asia-southeast1,Network Inter Region Data Transfer In from APAC to Singapore,gibibyte,0.000000,Network,0.00 USD (Free) per 1 gibibyte
+asia-southeast1,Network Inter Region Data Transfer In from Las Vegas to Singapore,gibibyte,0.000000,Network,
+asia-southeast1,Network Inter Region Data Transfer In from Los Angeles to Singapore,gibibyte,0.000000,Network,
+asia-southeast1,Network Inter Region Data Transfer In from Salt Lake City to Singapore,gibibyte,0.000000,Network,
+us-central1,Network Inter Region Data Transfer Out from Americas to Singapore,gibibyte,0.080000,Network,"Compute Engine: 
+0.00 USD (Free) per 1 gibibyte, for 0 gibibyte to 1 gibibyte, per 1 month per account; 
+0.08 USD per 1 gibibyte, for 1 gibibyte and above, per 1 month per account，手動指定Region
+定義：Egress to a Google Cloud region on another continent for VM to VM, or cross regions for Interconnect v2"
+us-central1,Standard Storage US Regional,gibibyte month,0.020000,Storage,"Cloud Storage: 
+0.00 USD (Free) per 1 gibibyte month, for 0 gibibyte month to 5 gibibyte month, per 1 month per account; 
+0.02 USD per 1 gibibyte month, for 5 gibibyte month and above, per 1 month per account"
+us-central1,Network Data Transfer In from Google Services from Americas to Americas,gibibyte,0.000000,Network,"GCP的Cost項目是列在Compute Engine下，手動指定Region
+定義：Ingress to a different Google Cloud service within the same region for VM to Google service"
+sharedservice,Network Intra Zone Data Transfer Out,gibibyte,0.000000,Network,GCP的Cost項目是列在Compute Engine下
+us-central1,Network Data Transfer to Google Services from Americas to Americas,gibibyte,0.000000,Network,"GCP的Cost項目是列在Compute Engine下，手動指定Region
+定義：Egress to a different Google Cloud service within the same region for VM to Google service"
+sharedservice,Network Intra Zone Data Transfer In,gibibyte,0.000000,Network,GCP的Cost項目是列在Compute Engine下
+sharedservice,Network Data Transfer GCP Inter Region within Asia,gibibyte,0.000000,Network,
+asia-southeast1,Network Data Transfer In from Google Services from Singapore to Singapore,gibibyte,0.000000,Network,"GCP的Cost項目是列在Compute Engine下
+定義：Ingress to a different Google Cloud service within the same region for VM to Google service"
+us-west4,Network Data Transfer In from Google Services from Las Vegas to Las Vegas,gibibyte,0.000000,Network,
+us-west2,Network Data Transfer In from Google Services from Los Angeles to Los Angeles,gibibyte,0.000000,Network,
+us-west3,Network Data Transfer In from Google Services from Salt Lake City to Salt Lake City,gibibyte,0.000000,Network,
+sharedservice,Network Data Transfer to Google Services from APAC to APAC,gibibyte,0.000000,Network,
+asia-southeast1,Network Data Transfer to Google Services from Singapore to Singapore,gibibyte,0.000000,Network,"GCP的Cost項目是列在Compute Engine下
+定義：Egress to a different Google Cloud service within the same region for VM to Google service"
+us-west4,Network Data Transfer to Google Services from Las Vegas to Las Vegas,gibibyte,0.000000,Network,
+us-west2,Network Data Transfer to Google Services from Los Angeles to Los Angeles,gibibyte,0.000000,Network,
+us-west3,Network Data Transfer to Google Services from Salt Lake City to Salt Lake City,gibibyte,0.000000,Network,
+us-central1,Spot Preemptible N2 Instance Ram running in Americas,gibibyte hour,0.001136,CPU,0.001136 USD per 1 gibibyte hour
+us-central1,Spot Preemptible N2 Instance Core running in Americas,hour,0.008490,CPU,0.00849 USD per 1 hour
+us-central1,N1 Predefined Instance Core running in Americas,hour,0.031611,CPU,GCP的Cost項目是列在Compute Engine下
+us-central1,N1 Predefined Instance Ram running in Americas,gibibyte hour,0.004237,CPU,GCP的Cost項目是列在Compute Engine下
+sharedservice,Download APAC,gibibyte,0.080000,Network,"GCP的Cost項目是列在Cloud Storage下: 
+0.00 USD (Free) per 1 gibibyte, for 0 byte to 100 gibibyte, per 1 month per account; 
+0.12 USD per 1 gibibyte, for 100 gibibyte to 1 tebibyte, per 1 month per account; 
+0.11 USD per 1 gibibyte, for 1 tebibyte to 10 tebibyte, per 1 month per account; 
+0.08 USD per 1 gibibyte, for 10 tebibyte and above, per 1 month per account"
+sharedservice,GCP Storage Data Transfer between Northern America and Asia,gibibyte,0.080000,Network,"GCP的Cost項目是列在Cloud Storage下: 
+0.00 USD (Free) per 1 gibibyte, for 0 byte to 100 gibibyte, per 1 month per account; 
+0.08 USD per 1 gibibyte, for 10 gibibyte and above, per 1 month per account"
+us-central1,NetApp Volumes Capacity Extreme Iowa,gibibyte month,0.392700,Storage,
+asia-southeast1,NetApp Volumes Capacity Extreme Singapore,gibibyte month,0.392700,Storage,
+us-central1,NetApp Volumes Capacity Premium Iowa,gibibyte month,0.294200,Storage,
+us-central1,NetApp Volumes Capacity Standard Iowa,gibibyte month,0.200000,Storage,
+us-west4,NetApp Volumes Capacity Extreme Las Vegas,gibibyte month,0.451600,Storage,
+us-west2,NetApp Volumes Capacity Standard Los Angeles,gibibyte month,0.230000,Storage,
+us-west2,NetApp Volumes Capacity Extreme Los Angeles,gibibyte month,0.451600,Storage,
+us-west3,NetApp Volumes Capacity Extreme Salt Lake City,gibibyte month,0.451600,Storage,
+us-central1,A2 Instance Core running in Americas,hour,0.031611,CPU,
+us-central1,A2 Instance Ram running in Americas,gibibyte hour,0.004237,CPU,
+asia-southeast1,A2 Instance Core running in Singapore,hour,0.038999,CPU,
+asia-southeast1,A2 Instance Ram running in Singapore,gibibyte hour,0.005226,CPU,
+asia-southeast1,A3 Instance Core running in Singapore,hour,0.031457,CPU,0.03145689 USD per 1 hour
+asia-southeast1,A3 Instance Ram running in Singapore,gibibyte hour,0.002739,CPU,0.002739233 USD per 1 gibibyte hour
+us-central1,Spot Preemptible A2 Instance Core running in Americas,hour,0.012640,CPU,
+us-central1,Spot Preemptible A2 Instance Ram running in Americas,gibibyte hour,0.001695,CPU,
+asia-southeast1,Spot Preemptible A2 Instance Core running in Singapore,hour,0.015250,CPU,
+asia-southeast1,Spot Preemptible A2 Instance Ram running in Singapore,gibibyte hour,0.002044,CPU,0.002044 USD per 1 gibibyte hour
+sharedservice,Balanced PD Capacity,gibibyte month,0.100000,CPU,
+asia-southeast1,Balanced PD Capacity in Singapore,gibibyte month,0.110000,CPU,
+asia-southeast1,C2D AMD Instance Core running in Singapore,hour,0.036471,CPU,
+asia-southeast1,C2D AMD Instance Ram running in Singapore,gibibyte hour,0.004884,CPU,
+sharedservice,Licensing Fee for Ubuntu 22.04 LTS (Jammy Jellyfish),hour,0.000000,Application,
+asia-east1,N2 Instance Core running in APAC,hour,0.036602,CPU,
+asia-east1,N2 Instance Ram running in APAC,gibibyte hour,0.004906,CPU,
+sharedservice,Network VPN Intra Region Data Transfer,gibibyte,0.000000,Network,
+sharedservice,Network VPN Intra Region Data Transfer In,gibibyte,0.000000,Network,
+us-central1,Nvidia Tesla A100 80GB GPU attached to Spot Preemptible VMs running in Americas,hour,1.571200,CPU,
+asia-southeast1,Nvidia Tesla A100 80GB GPU attached to Spot Preemptible VMs running in Singapore,hour,1.938400,CPU,
+us-central1,Nvidia H100 80GB GPU attached to Spot Preemptible VMs running in Americas,hour,5.388100,CPU,5.3881 USD per 1 hour
+asia-southeast1,Nvidia H100 80GB GPU attached to Spot Preemptible VMs running in Singapore,hour,7.004500,CPU,7.0045 USD per 1 hour
+us-central1,Nvidia Tesla A100 80GB GPU running in Americas,hour,3.928080,CPU,
+asia-southeast1,Nvidia Tesla A100 80GB GPU running in Singapore,hour,4.846072,CPU,
+asia-southeast1,Nvidia H100 80GB GPU running in Singapore,hour,12.735516,CPU,12.735516 USD per 1 hour
+asia-east1,Active Logical Storage (asia-east1),gibibyte month,0.000000,Application,"0.00 USD (Free) per 1 gibibyte month, for 0 to 10 gibibyte month, per 1 month per account
+0.02 USD per 1 gibibyte month, for 10 gibibyte month and above, per 1 month per account"
+asia-east1,Long Term Logical Storage (asia-east1),gibibyte month,0.000000,Application,"0.00 USD (Free) per 1 gibibyte month, for 0 to 10 gibibyte month, per 1 month per account
+0.01 USD per 1 gibibyte month, for 10 gibibyte month and above, per 1 month per account"
+asia-east1,Artifact Registry Storage,gibibyte month,0.000000,Application,"0.00 USD (Free) per 1 gibibyte month, for 0 gibibyte month to 0.5 gibibyte month, per 1 month per account
+0.10 USD per 1 gibibyte month, for 0.5 gibibyte month and above, per 1 month per account"
+asia-east1,CPU Allocation Time,vCPU-second,0.000024,Application,Cloud Run 0.0864 USD per 1 hour
+asia-east1,CPU Allocation Time (Always-on CPU) in asia-east1,vCPU-second,0.000018,Application,Cloud Run 0.0648 USD per 1 hour
+asia-east1,Cloud Load Balancer Forwarding Rule Minimum for Taiwan (asia-east1),hour,0.025000,Application,
+asia-east1,Cloud Run GOOGLE-API Data Transfer Out,gibibyte,0.000000,Network,Cloud Run
+asia-east1,Cloud SQL for MySQL: Regional - RAM in APAC,gibibyte hour,0.014000,Application,Cloud SQL
+asia-east1,Cloud SQL for MySQL: Regional - Standard storage in APAC,gibibyte month,0.340000,Application,Cloud SQL
+asia-east1,Cloud SQL for MySQL: Regional - vCPU in APAC,hour,0.082600,Application,Cloud SQL
+asia-east1,E2 Instance Core running in APAC,hour,0.025255,CPU,
+asia-east1,E2 Instance Ram running in APAC,gibibyte hour,0.003385,CPU,
+asia-east1,Filestore Capacity Zonal and High Scale Taiwan,gibibyte month,0.280000,Storage,
+asia-east1,Idle Min-Instance CPU Allocation Time,vCPU-second,0.000003,Application,Cloud Run 0.009 USD per 1 hour
+asia-east1,Idle Min-Instance Memory Allocation Time,GiB-second,0.000003,Application,Cloud Run 0.009 USD per 1 gibibyte hour
+asia-east1,Intra-region data delivery,gibibyte,0.000000,Application,Cloud Pub/Sub
+asia-east1,Licensing Fee for Container-Optimized OS - PCID Whitelisted on f1-micro,hour,0.000000,Application,
+asia-east1,Licensing Fee for Container-Optimized OS from Google on f1-micro,hour,0.000000,Application,
+asia-east1,Licensing Fee for Shielded COS on f1-micro,hour,0.000000,Application,
+asia-east1,Memory Allocation Time,GiB-second,0.000003,Application,Cloud Run 0.009 USD per 1 gibibyte hour
+asia-east1,Memory Allocation Time (Always-on CPU) in asia-east1,GiB-second,0.000002,Application,Cloud Run 0.0072 USD per 1 gibibyte hour
+asia-east1,Message Delivery Basic,tebibyte,0.000000,Application,"Cloud Pub/Sub
+0.00 USD (Free) per 1 tebibyte, for 0 gibibyte to 10 gibibyte, per 1 month per account
+40.00 USD per 1 tebibyte, for 10 gibibyte and above, per 1 month per account"
+asia-east1,Micro Instance with burstable CPU running in APAC,hour,0.009000,CPU,
+asia-east1,N2D AMD Instance Core running in APAC,hour,0.031844,CPU,
+asia-east1,N2D AMD Instance Ram running in APAC,gibibyte hour,0.004268,CPU,
+asia-east1,Network Data Transfer In from Google Services from APAC to APAC,gibibyte,0.000000,Network,
+asia-east1,Network HTTP Load Balancing Data Transfer In from Load Balancer,gibibyte,0.000000,Network,
+asia-east1,Network HTTP Load Balancing Data Transfer Out to Load Balancer,gibibyte,0.000000,Network,
+asia-east1,Network Inter Zone Data Transfer Out in APAC,gibibyte,0.000000,Network,
+asia-east1,On-demand fee for total VM network bandwidth up to 50 Gbps in Taiwan,hour,0.519839,Application,
+asia-east1,Regional Internal Passthrough Network Load Balancer Inbound Data Processing for Taiwan (asia-east1),gibibyte,0.008000,Application,
+asia-east1,Regional Internal Passthrough Network Load Balancer Outbound Data Processing for Taiwan (asia-east1),gibibyte,0.008000,Application,
+asia-east1,Requests,Requests,0.000000,Application,"0.00 USD (Free) per 1,000,000 count, for 0 count to 2,000,000 count, per 1 month per account
+0.40 USD per 1,000,000 count, for 2,000,000 count and above, per 1 month per account"
+asia-east1,Secret access operations,count,0.000000,Application,"Security Manager
+0.00 USD (Free) per 10,000 count, for 0 count to 10,000 count, per 1 month per account
+0.03 USD per 10,000 count, for 10,000 count and above, per 1 month per account"
+us-central1,Secret version replica storage,month,0.000000,Application,"Security Manager
+0.00 USD (Free) per 1 month, for 0 month to 6 month, per 1 month per account
+0.06 USD per 1 month, for 6 month and above, per 1 month per account"
+asia-east1,Dataplex Metadata Storage Taiwan,gibibyte month,2.000000,Application,2.00 USD per 1 gibibyte month
+asia-east1,Standard Storage Asia Regional,gibibyte month,0.020000,Storage,
+asia-east1,Storage PD Snapshot,gibibyte month,0.050000,Application,
+asia-east1,Topics message backlog,gibibyte month,0.270000,Application,Cloud Pub/Sub
